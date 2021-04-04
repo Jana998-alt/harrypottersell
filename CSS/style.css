@@ -1,0 +1,22 @@
+span {
+    color: rgb(245, 245, 245);
+}
+header{
+    background-color: rgb(0, 0, 80);
+    color: whitesmoke;
+}
+header nav{
+margin-left: 1170px;
+}
+body p, h2, ul{
+    color: rgb(245, 245, 245);
+       
+
+}
+body img books{
+    float: right;
+}
+footer{
+   
+    margin-top: 200px;
+}
